@@ -1,4 +1,4 @@
-## To deploy Using SST, use:-
+## To deploy using SST, use:-
 
 
 ```
